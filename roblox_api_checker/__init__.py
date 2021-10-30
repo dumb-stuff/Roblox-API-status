@@ -76,7 +76,7 @@ def status():
 	return logs
 
 def statuscli(down='all'):
-  if down == 'all:
+  if down == 'all':
     return '\n'.join(status())
   elif down == 'down':
     s = []
