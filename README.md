@@ -10,7 +10,7 @@ pip install -r requirements.txt & python3 main.py
 ```
 If you see some port error. Change port as you like.
 ## Module
-You get this from [here](https://pypi.org/project/roblox-api-checker)
+You get this from [here](https://pypi.org/project/roblox-api-status)
 Run
 ```bash
 roblox-api-checker
