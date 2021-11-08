@@ -1,52 +1,52 @@
-Account Information is not working with response code 503
-Account Settings is not working with response code 503
-Advertising Configuration is not working with response code 503
-Advertisement is not working with response code 503
-Assets Delivery is not working with response code 503
-Authenication is not working with response code 503
-Avatar is not working with response code 503
-Badges is not working with response code 503
-Billing is not working with response code 503
-Catalog is not working with response code 503
-CDN Provider is not working with response code 503
-Chat is not working with response code 503
-Client Settings is not working with response code 503
-Contacts is not working with response code 503
-Content Store is not working with response code 503
-Develop is not working with response code 503
-Economy is not working with response code 503
-Engagement Payouts is not working with response code 503
-Followings is not working with response code 503
-Friends is not working with response code 503
-Game Internationalization is not working with response code 503
-Game Join is not working with response code 503
-Game Persistence is not working with response code 503
-Games is not working with response code 503
-Groups is not working with response code 503
-Groups Moderation is not working with response code 503
-Inventory is not working with response code 503
-Item Configuration is not working with response code 503
-Legacy is not working with response code 503
-Locale is not working with response code 503
-Localization Tables is not working with response code 503
-Metrics is not working with response code 503
-Notifications is not working with response code 503
-Points is not working with response code 503
-Premiums Features is not working with response code 503
-Presence is not working with response code 503
-Private Messages is not working with response code 503
-Publish is not working with response code 503
-Economy creator stats is not working with response code 503
-Share is not working with response code 503
-Text Filter is not working with response code 503
-Thumbnails is not working with response code 503
-Thumbnails Resizer is not working with response code 503
-Trades is not working with response code 503
-Translation Roles is not working with response code 503
-Translation is not working with response code 503
-Two step Verification is not working with response code 503
-User Moderation is not working with response code 503
-Users is not working with response code 503
-Voice is not working with response code 503
-Website is not working with response code 503
+Account Information is working with response code 200
+Account Settings is working with response code 200
+Advertising Configuration is working with response code 200
+Advertisement is working with response code 200
+Assets Delivery is working with response code 200
+Authenication is working with response code 200
+Avatar is working with response code 200
+Badges is working with response code 200
+Billing is working with response code 200
+Catalog is working with response code 200
+CDN Provider is working with response code 200
+Chat is working with response code 200
+Client Settings is working with response code 200
+Contacts is working with response code 200
+Content Store is working with response code 200
+Develop is working with response code 200
+Economy is working with response code 200
+Engagement Payouts is working with response code 200
+Followings is working with response code 200
+Friends is working with response code 200
+Game Internationalization is working with response code 200
+Game Join is working with response code 200
+Game Persistence is working with response code 200
+Games is working with response code 200
+Groups is working with response code 200
+Groups Moderation is working with response code 200
+Inventory is working with response code 200
+Item Configuration is working with response code 200
+Legacy is not working with response code 403
+Locale is working with response code 200
+Localization Tables is working with response code 200
+Metrics is working with response code 200
+Notifications is working with response code 200
+Points is working with response code 200
+Premiums Features is working with response code 200
+Presence is working with response code 200
+Private Messages is working with response code 200
+Publish is working with response code 200
+Economy creator stats is working with response code 200
+Share is working with response code 200
+Text Filter is working with response code 200
+Thumbnails is working with response code 200
+Thumbnails Resizer is working with response code 200
+Trades is working with response code 200
+Translation Roles is working with response code 200
+Translation is working with response code 200
+Two step Verification is working with response code 200
+User Moderation is working with response code 200
+Users is working with response code 200
+Voice is working with response code 200
+Website is working with response code 200
 Status Website is working with response code 200
