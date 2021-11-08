@@ -17,6 +17,6 @@ setup(
   packages=find_packages(),
   install_requires=open('requirements.txt').readlines(),
   entry_points={
-    'console_scripts': ['roblox-api-checker=roblox_api_checker.cli:main']
+    'console_scripts': ['roblox-api-checker=roblox_api_checker.cli:main','roblox-server-checker=roblox_api_checker.__init__:statusserver']
   }
 )
