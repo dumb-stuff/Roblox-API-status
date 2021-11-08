@@ -17,5 +17,6 @@ roblox-api-checker
 ```
 If webserver then
 ```bash
-roblox-api-checker start
+roblox-server-checker <ip> <port> <ssl> <pem 1> <pem2>
 ```
+if u use ssl u dont need to use bc adhoc is default
